@@ -1,2 +1,4 @@
 /node_modules
 .DS_Store
+/apps/api/target/
+/packages/shared-types/node_modules/
