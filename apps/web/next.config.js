@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  experimental: {
+    appDir: true,
+  },
+  transpilePackages: ["@weatherah/shared-types"],
+};
 
-export default nextConfig;
+module.exports = nextConfig;
